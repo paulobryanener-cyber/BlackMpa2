@@ -4,7 +4,7 @@
 window.SITE_CONFIG = {
   apiUrl: 'https://geragerapiuxis.top/api-pescabrasil',
   cpfApiUrl: 'https://gerapix.eu.cc/apicpf/api/cpf',
-  whatsappSuporte: '5567998518913',
+  whatsappSuporte: '5561998869259',
   appIosUrl: 'https://carteiradepesca.com/ios/'
 };
 
